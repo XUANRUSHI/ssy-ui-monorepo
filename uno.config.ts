@@ -6,7 +6,7 @@ import {
   transformerAttributifyJsx,
   transformerDirectives,
   transformerVariantGroup,
-} from 'unocss'
+} from 'unocss' 
 
 const colors = [
   'white',

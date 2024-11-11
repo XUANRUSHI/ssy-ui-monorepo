@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="./assets/GitHub-Logo.png" width="100%"/>
+    <img src="/assets/GitHub-Logo.png" width="100%"/>
     <br>
 </p>
 
